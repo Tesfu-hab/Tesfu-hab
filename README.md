@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tesfu-hab
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning software testing. 
-- 💞️ I’m looking to collaborate on software development.
+- 🌱 I’m currently learning coding. 
+- 💞️ I’m looking to collaborate on software development and data science.
 - 📫 How to reach me email tesfuhabtu21@gmail.com
 
 <!---
